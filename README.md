@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am a passionate frontend web developer.<br>I am currently working on Machine Learning.
+I am a passionate frontend web developer.<br>
+I am currently working on Machine Learning.
 
 
 # 💻 Tech Stack:
