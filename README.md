@@ -1,7 +1,7 @@
 # 💫 About Me:
-🚀 Passionate **Web Developer & ML Enthusiast**  
-🎯 Skilled in full-stack development & machine learning  
-💡 Always learning and exploring new technologies
+🚀 Passionate Developer with a strong interest in web and backend development.<br>
+💡 Always exploring new technologies and improving my problem-solving skills.<br>
+🔗 Love contributing to open-source and collaborating on impactful projects.
 ---
 
 # 💻 Tech Stack:
