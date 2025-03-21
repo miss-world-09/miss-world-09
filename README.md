@@ -1,6 +1,8 @@
 # 💫 About Me:
-I am a passionate frontend web developer.<br>
-I am currently working on Machine Learning.
+🚀 Passionate Developer with a strong interest in web and backend development.<br>
+💡 Always exploring new technologies and improving my problem-solving skills.<br>
+🔗 Love contributing to open-source and collaborating on impactful projects.
+
 
 
 # 💻 Tech Stack:
